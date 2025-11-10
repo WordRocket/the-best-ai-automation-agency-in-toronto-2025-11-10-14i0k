@@ -1,0 +1,23 @@
+{
+  "name": "wordrocket-landing-page",
+  "version": "1.0.0",
+  "description": "WordRocket AI - The Best AI Automation Agency In Toronto",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AI",
+    "automation",
+    "agency",
+    "Toronto",
+    "landing-page"
+  ],
+  "author": "WordRocket AI",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
